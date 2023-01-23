@@ -1,0 +1,13 @@
+C:\projects\todo.api\Todo.Domain.Infra\bin\Debug\netcoreapp3.1\Todo.Domain.Infra.deps.json
+C:\projects\todo.api\Todo.Domain.Infra\bin\Debug\netcoreapp3.1\Todo.Domain.Infra.dll
+C:\projects\todo.api\Todo.Domain.Infra\bin\Debug\netcoreapp3.1\Todo.Domain.Infra.pdb
+C:\projects\todo.api\Todo.Domain.Infra\obj\Debug\netcoreapp3.1\Todo.Domain.Infra.csproj.AssemblyReference.cache
+C:\projects\todo.api\Todo.Domain.Infra\obj\Debug\netcoreapp3.1\Todo.Domain.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\todo.api\Todo.Domain.Infra\obj\Debug\netcoreapp3.1\Todo.Domain.Infra.AssemblyInfoInputs.cache
+C:\projects\todo.api\Todo.Domain.Infra\obj\Debug\netcoreapp3.1\Todo.Domain.Infra.AssemblyInfo.cs
+C:\projects\todo.api\Todo.Domain.Infra\obj\Debug\netcoreapp3.1\Todo.Domain.Infra.csproj.CoreCompileInputs.cache
+C:\projects\todo.api\Todo.Domain.Infra\obj\Debug\netcoreapp3.1\Todo.Domain.Infra.dll
+C:\projects\todo.api\Todo.Domain.Infra\obj\Debug\netcoreapp3.1\Todo.Domain.Infra.pdb
+C:\projects\todo.api\Todo.Domain.Infra\bin\Debug\netcoreapp3.1\Todo.Domain.dll
+C:\projects\todo.api\Todo.Domain.Infra\bin\Debug\netcoreapp3.1\Todo.Domain.pdb
+C:\projects\todo.api\Todo.Domain.Infra\obj\Debug\netcoreapp3.1\Todo.Domain.Infra.csproj.CopyComplete

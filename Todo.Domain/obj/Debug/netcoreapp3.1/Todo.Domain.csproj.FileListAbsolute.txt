@@ -1,0 +1,10 @@
+C:\projects\todo.api\Todo.Domain\bin\Debug\netcoreapp3.1\Todo.Domain.deps.json
+C:\projects\todo.api\Todo.Domain\bin\Debug\netcoreapp3.1\Todo.Domain.dll
+C:\projects\todo.api\Todo.Domain\bin\Debug\netcoreapp3.1\Todo.Domain.pdb
+C:\projects\todo.api\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.csproj.AssemblyReference.cache
+C:\projects\todo.api\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\todo.api\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.AssemblyInfoInputs.cache
+C:\projects\todo.api\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.AssemblyInfo.cs
+C:\projects\todo.api\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.csproj.CoreCompileInputs.cache
+C:\projects\todo.api\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.dll
+C:\projects\todo.api\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.pdb
