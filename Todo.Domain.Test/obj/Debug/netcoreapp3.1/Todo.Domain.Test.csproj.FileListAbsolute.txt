@@ -96,3 +96,7 @@ C:\projects\todo.api\Todo.Domain.Test\obj\Debug\netcoreapp3.1\Todo.Domain.Test.c
 C:\projects\todo.api\Todo.Domain.Test\obj\Debug\netcoreapp3.1\Todo.Domain.Test.dll
 C:\projects\todo.api\Todo.Domain.Test\obj\Debug\netcoreapp3.1\Todo.Domain.Test.pdb
 C:\projects\todo.api\Todo.Domain.Test\obj\Debug\netcoreapp3.1\Todo.Domain.Test.genruntimeconfig.cache
+c:\projects\todo.api\Todo.Domain.Test\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+c:\projects\todo.api\Todo.Domain.Test\bin\Debug\netcoreapp3.1\Flunt.dll
+c:\projects\todo.api\Todo.Domain.Test\bin\Debug\netcoreapp3.1\Todo.Domain.dll
+c:\projects\todo.api\Todo.Domain.Test\bin\Debug\netcoreapp3.1\Todo.Domain.pdb
