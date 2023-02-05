@@ -100,3 +100,9 @@ c:\projects\todo.api\Todo.Domain.Test\bin\Debug\netcoreapp3.1\CoverletSourceRoot
 c:\projects\todo.api\Todo.Domain.Test\bin\Debug\netcoreapp3.1\Flunt.dll
 c:\projects\todo.api\Todo.Domain.Test\bin\Debug\netcoreapp3.1\Todo.Domain.dll
 c:\projects\todo.api\Todo.Domain.Test\bin\Debug\netcoreapp3.1\Todo.Domain.pdb
+C:\projects\todo.api\Todo.Domain.Test\bin\Debug\netcoreapp3.1\AutoFixture.dll
+C:\projects\todo.api\Todo.Domain.Test\bin\Debug\netcoreapp3.1\Fare.dll
+C:\projects\todo.api\Todo.Domain.Test\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\projects\todo.api\Todo.Domain.Test\bin\Debug\netcoreapp3.1\Moq.dll
+C:\projects\todo.api\Todo.Domain.Test\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\projects\todo.api\Todo.Domain.Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
