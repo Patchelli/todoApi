@@ -22,3 +22,4 @@ C:\projects\todo.api\Todo.Domain.Api\bin\Debug\netcoreapp3.1\Todo.Domain.Infra.d
 C:\projects\todo.api\Todo.Domain.Api\bin\Debug\netcoreapp3.1\Todo.Domain.pdb
 C:\projects\todo.api\Todo.Domain.Api\bin\Debug\netcoreapp3.1\Todo.Domain.Infra.pdb
 C:\projects\todo.api\Todo.Domain.Api\obj\Debug\netcoreapp3.1\Todo.Domain.Api.csproj.CopyComplete
+C:\projects\todo.api\Todo.Domain.Api\bin\Debug\netcoreapp3.1\Flunt.dll
