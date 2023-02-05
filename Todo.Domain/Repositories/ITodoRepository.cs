@@ -10,7 +10,12 @@ namespace Todo.Domain.Repositories
     {
         void Create(TodoItem todo);
         void Update(TodoItem todo);
-        void Delete(Guid id);
+        void Delete(TodoItem todo);
         TodoItem GetById(Guid Id, string user);
+
+        IEnumerable<TodoItem> GetAll(string user);
+        IEnumerable<TodoItem> GetAllDone(string user);
+        IEnumerable<TodoItem> GetAllUnDone(string user);
+        IEnumerable<TodoItem> GetByPeriod(string user,DateTime date, bool done);
     }
 }

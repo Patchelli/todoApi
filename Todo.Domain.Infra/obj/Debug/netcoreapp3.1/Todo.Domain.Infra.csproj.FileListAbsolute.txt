@@ -11,3 +11,6 @@ C:\projects\todo.api\Todo.Domain.Infra\obj\Debug\netcoreapp3.1\Todo.Domain.Infra
 C:\projects\todo.api\Todo.Domain.Infra\bin\Debug\netcoreapp3.1\Todo.Domain.dll
 C:\projects\todo.api\Todo.Domain.Infra\bin\Debug\netcoreapp3.1\Todo.Domain.pdb
 C:\projects\todo.api\Todo.Domain.Infra\obj\Debug\netcoreapp3.1\Todo.Domain.Infra.csproj.CopyComplete
+C:\projects\todo.api\Todo.Domain.Infra\bin\Debug\netcoreapp3.1\Todo.Domain.Infra.runtimeconfig.json
+C:\projects\todo.api\Todo.Domain.Infra\bin\Debug\netcoreapp3.1\Todo.Domain.Infra.runtimeconfig.dev.json
+C:\projects\todo.api\Todo.Domain.Infra\obj\Debug\netcoreapp3.1\Todo.Domain.Infra.genruntimeconfig.cache
